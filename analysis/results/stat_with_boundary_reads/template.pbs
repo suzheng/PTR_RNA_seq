@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=2:mem=10gb 
+#PBS -l walltime=4:00:00
+#PBS -l ib=yes
+#PBS -o ./eo/
+#PBS -e ./eo/
+
+cd analysis/results/stat_with_boundary_reads 
+mkdir ./eo/
+source /srv/scratch/z5344917/anaconda3/etc/profile.d/conda.sh
+conda activate smk
+export SINGULARITY_CACHEDIR=$TMPDIR/SINGULARITY_CACHEDIR/
+module add samtools bedtools

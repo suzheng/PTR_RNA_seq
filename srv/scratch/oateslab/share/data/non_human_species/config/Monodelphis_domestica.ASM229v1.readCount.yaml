@@ -1,0 +1,4 @@
+star_index: /srv/scratch/oateslab/share/data/non_human_species/Monodelphis_domestica.ASM229v1/
+exon_gff: /srv/scratch/oateslab/share/data/non_human_species/Monodelphis_domestica.ASM229v1/Monodelphis_domestica.ASM229v1.exonsOnly.clean.gff3
+intron_gff: /srv/scratch/oateslab/share/data/non_human_species/Monodelphis_domestica.ASM229v1/Monodelphis_domestica.ASM229v1.intronsOnly.exonsSubtracted.gff3.gz
+mount_dir: /srv/scratch/oateslab/share/data/

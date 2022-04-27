@@ -1,0 +1,8 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=2:mem=4gb 
+#PBS -l walltime=8:00:00
+#PBS -l ib=yes
+#PBS -o analysis/results/100_samples_each_tissue//eo
+export SINGULARITY_CACHEDIR=$TMPDIR/SINGULARITY_CACHEDIR/
+dir=analysis/results/100_samples_each_tissue/
+cd $dir 

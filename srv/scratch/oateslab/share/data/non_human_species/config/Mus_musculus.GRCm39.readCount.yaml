@@ -1,0 +1,4 @@
+star_index: /srv/scratch/oateslab/share/data/non_human_species/Mus_musculus.GRCm39/
+exon_gff: /srv/scratch/oateslab/share/data/non_human_species/Mus_musculus.GRCm39/Mus_musculus.GRCm39.exonsOnly.clean.gff3
+intron_gff: /srv/scratch/oateslab/share/data/non_human_species/Mus_musculus.GRCm39/Mus_musculus.GRCm39.intronsOnly.exonsSubtracted.gff3.gz
+mount_dir: /srv/scratch/oateslab/share/data/

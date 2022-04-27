@@ -1,0 +1,4 @@
+star_index: /srv/scratch/oateslab/share/data/non_human_species/Ornithorhynchus_anatinus.mOrnAna1/
+exon_gff: /srv/scratch/oateslab/share/data/non_human_species/Ornithorhynchus_anatinus.mOrnAna1/Ornithorhynchus_anatinus.mOrnAna1.exonsOnly.clean.gff3
+intron_gff: /srv/scratch/oateslab/share/data/non_human_species/Ornithorhynchus_anatinus.mOrnAna1/Ornithorhynchus_anatinus.mOrnAna1.intronsOnly.exonsSubtracted.gff3.gz
+mount_dir: /srv/scratch/oateslab/share/data/

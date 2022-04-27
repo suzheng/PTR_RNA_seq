@@ -1,0 +1,4 @@
+star_index: /srv/scratch/oateslab/share/data/non_human_species/Homo_sapiens.GRCh38/
+exon_gff: /srv/scratch/oateslab/share/data/non_human_species/Homo_sapiens.GRCh38/Homo_sapiens.GRCh38.exonsOnly.clean.gff3
+intron_gff: /srv/scratch/oateslab/share/data/non_human_species/Homo_sapiens.GRCh38/Homo_sapiens.GRCh38.intronsOnly.exonsSubtracted.gff3.gz
+mount_dir: /srv/scratch/oateslab/share/data/

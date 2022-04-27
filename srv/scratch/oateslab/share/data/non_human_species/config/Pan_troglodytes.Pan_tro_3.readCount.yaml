@@ -1,0 +1,4 @@
+star_index: /srv/scratch/oateslab/share/data/non_human_species/Pan_troglodytes.Pan_tro_3/
+exon_gff: /srv/scratch/oateslab/share/data/non_human_species/Pan_troglodytes.Pan_tro_3/Pan_troglodytes.Pan_tro_3.exonsOnly.clean.gff3
+intron_gff: /srv/scratch/oateslab/share/data/non_human_species/Pan_troglodytes.Pan_tro_3/Pan_troglodytes.Pan_tro_3.intronsOnly.exonsSubtracted.gff3.gz
+mount_dir: /srv/scratch/oateslab/share/data/

@@ -1,0 +1,9 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=8:mem=50gb 
+#PBS -l walltime=9:00:00
+#PBS -l ib=yes
+#PBS -o ./eo/
+#PBS -e ./eo/
+cd /srv/scratch/oateslab/share/data/non_human_species/scripts 
+source /srv/scratch/z5344917/anaconda3/etc/profile.d/conda.sh
+module add singularity samtools

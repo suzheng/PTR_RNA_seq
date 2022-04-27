@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=4:mem=50gb 
+#PBS -l walltime=9:00:00
+#PBS -l ib=yes
+#PBS -o ./eo/${PBS_JOBNAME}.o${PBS_JOBID} 
+#PBS -e ./eo/${PBS_JOBNAME}.e${PBS_JOBID}
+
+cd analysis/results/non_human_species 
+mkdir ./eo/
+source /srv/scratch/z5344917/anaconda3/etc/profile.d/conda.sh
+conda activate smk
+module add java picard samtools

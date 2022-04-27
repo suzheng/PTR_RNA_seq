@@ -1,0 +1,4 @@
+star_index: /srv/scratch/oateslab/share/data/non_human_species/SPECIES_NAME/
+exon_gff: /srv/scratch/oateslab/share/data/non_human_species/SPECIES_NAME/SPECIES_NAME.exonsOnly.clean.gff3
+intron_gff: /srv/scratch/oateslab/share/data/non_human_species/SPECIES_NAME/SPECIES_NAME.intronsOnly.exonsSubtracted.gff3.gz
+mount_dir: /srv/scratch/oateslab/share/data/

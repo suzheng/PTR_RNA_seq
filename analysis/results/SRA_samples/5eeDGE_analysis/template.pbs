@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=2:mem=5gb 
+#PBS -l walltime=2:00:00
+#PBS -l ib=yes
+#PBS -o ./eo/ 
+#PBS -e ./eo/
+
+cd analysis/results/SRA_samples/5eeDGE_analysis 
+mkdir ./eo/
+source /srv/scratch/z5344917/anaconda3/etc/profile.d/conda.sh
+conda activate smk
+#module add java picard samtools

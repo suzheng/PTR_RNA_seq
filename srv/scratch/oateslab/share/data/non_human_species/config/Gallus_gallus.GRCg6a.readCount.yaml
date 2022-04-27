@@ -1,0 +1,4 @@
+star_index: /srv/scratch/oateslab/share/data/non_human_species/Gallus_gallus.GRCg6a/
+exon_gff: /srv/scratch/oateslab/share/data/non_human_species/Gallus_gallus.GRCg6a/Gallus_gallus.GRCg6a.exonsOnly.clean.gff3
+intron_gff: /srv/scratch/oateslab/share/data/non_human_species/Gallus_gallus.GRCg6a/Gallus_gallus.GRCg6a.intronsOnly.exonsSubtracted.gff3.gz
+mount_dir: /srv/scratch/oateslab/share/data/
