@@ -261,29 +261,29 @@ Commands to collect analysis results:
 ### Statistics and result visualization
  Jupyter notebook to generate Figures 1a and 2a:
 
-[scatter_plot_examples.ipynb](scatter_plot_examples.ipynb)
+[scatter_plot_examples.ipynb](notebooks/scatter_plot_examples.ipynb)
 
 
 
  Jupyter notebook to generate Figure 1b, 2b, 1c, 2c and Figure S2:
 
-[fc_stat_stat.ipynb](fc_stat_stat.ipynb)
+[fc_stat_stat.ipynb](notebooks/fc_stat_stat.ipynb)
 
   Jupyter notebook to generate Figures 1d, 1e, 1f and 1g:
 
-[visualize_tissue_diff.ipynb](visualize_tissue_diff.ipynb)
+[visualize_tissue_diff.ipynb](notebooks/visualize_tissue_diff.ipynb)
 
  Jupyter notebook to generate Figure 3 and Figure S1b:
 
-[delta_fc_cpm_hk_genes.ipynb](delta_fc_cpm_hk_genes.ipynb)
+[delta_fc_cpm_hk_genes.ipynb](notebooks/delta_fc_cpm_hk_genes.ipynb)
 
  Jupyter notebook to generate Figure S1a:
 
-[read_counts_exon_intron.ipynb](read_counts_exon_intron.ipynb)
+[read_counts_exon_intron.ipynb](notebooks/read_counts_exon_intron.ipynb)
 
  Jupyter notebook to generate Figure S3:
 
-[reading_strategy_schemic.ipynb](reading_strategy_schemic.ipynb)
+[reading_strategy_schemic.ipynb](notebooks/reading_strategy_schemic.ipynb)
 
 	
 # License
